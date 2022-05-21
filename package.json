@@ -1,0 +1,19 @@
+{
+  "name": "shopify-backend",
+  "version": "1.0.0",
+  "description": "warehouse inventory app",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Ebenezer Ifezulike",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
