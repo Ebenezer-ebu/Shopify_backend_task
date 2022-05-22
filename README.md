@@ -1,7 +1,7 @@
 # Shopify Task
 
 # Documentation on postman
-    Visit [documentation](https://documenter.getpostman.com/view/9073495/UyxoijhN)
+Visit [documentation](https://documenter.getpostman.com/view/9073495/UyxoijhN)
 
 To start up the application locally and install dependencies
 ```
