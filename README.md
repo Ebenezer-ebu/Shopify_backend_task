@@ -19,23 +19,23 @@ To start up the application locally and install dependencies
 
 # Routes For Inventory
 * POST: /api/inventory 
-    To create inventory 
+    - To create inventory 
 
 * PATCH: /api/inventory/:itemId
-    To edit inventory
+    - To edit inventory
 
 * DELETE: /api/inventory/:itemId
-    To delete inventory
+    - To delete inventory
 
 * GET: /api/inventory
-    To get all inventories
+    - To get all inventories
 
 # Routes For locations
 * POST: /api/inventory-location
-    To create a location
+    - To create a location
 
 * PATCH: /api/inventory-location/:id
-    To edit location and assign inventory to location
+    - To edit location and assign inventory to location
 
 * GET: /api/inventory-location
-    To get all inventory locations
+    - To get all inventory locations
